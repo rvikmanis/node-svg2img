@@ -20,7 +20,7 @@
     "atob": "^2.0.0",
     "btoa": "^1.1.2",
     "canvas": "^1.3.12",
-    "canvg": "https://github.com/FuZhenn/canvg",
+    "canvg": "https://github.com/rvikmanis/canvg",
     "node-pre-gyp": "^0.6.23"
   },
   "readmeFilename": "README.md"
